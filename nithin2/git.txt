@@ -1,0 +1,76 @@
+GIT COMMANDS: 
+1.git config --global user.name "username" 
+# Assigns the users username for all commits.
+
+2.git config --global user.email "email"
+# Assigns the users email for all the commits.
+
+3.git init
+# Initialises a .git file in the local, of the users remote repository.
+
+4.git clone
+# This command copies all the content from your repository to local.
+
+5.git add <file name>
+6.git add -A || git add .
+# The above commands are used for adding new files to the repository.
+
+7.git commit -a -m "message content"
+8.git commit -m "message content"
+# Commits all the staged files to be pushed to the remote repository.
+
+9.git push origin branchname
+10.git push -u origin master
+11.git push
+# Pushing all the commited files to the remote repository.
+
+12.git remote add origin
+# Adds the remote repository origin so that we can start our work with all the branches in the repository.
+
+13.git branch <branch name>
+# Creates a new branch with the branch name
+
+14.git checkout <branch name>
+# Leaves the present branch and enters the new branch.
+
+15.git merge
+# Merges the remote branch into current local branch.
+
+16.git pull origin master
+# Pulls the content from the repository.
+
+17.git pull origin branchname 
+
+18.git log
+# Shows history of the current branch.
+
+19.git --help
+# Shows the complete information about the command.
+
+20.git branch -a
+# Lists local and remote branches
+
+21.git branch -r 
+# Lista remote branches
+
+22.git checkout branch-name
+# We move to new branch
+
+23.git checkout -b 'local branch name' origin/'remote branch name'
+# We use this when we create a remote branch and want to establish a path from the local branch to the remote branch.
+
+24.git branch -d
+# Deletes the branch
+
+25.git reset (file name)
+# Removes file from staging area
+
+26.git fetch
+# Downloads all history from the remote branch.
+  
+27.git push
+# This is the combination of both git merge and git fetch. It pushes all the content from local to remote.
+
+28.git restore
+# Restores all the staged files which were added.
+
