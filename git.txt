@@ -1,6 +1,7 @@
 GIT:
 
-- Git is a  free open sourse distributed version control system used to store code.
+- Git is a  free open source distributed version control system used to store code.
+- All the information/code stored on the version control system is called Source Code.
 - It is designed to handle various sized projects with speed and effciency.
 - It is designed for cordinating work among progammers,but it can be used to track changes in any sets of files.
 - Git maintains a history of all the changes performed on software code by various developers.
