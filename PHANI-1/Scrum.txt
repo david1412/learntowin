@@ -5,11 +5,9 @@ Definition of Scrum:
 An[agile] framework within which people can address complex adaptive problems, while productively and creatively delivering products of the highest possible value.
 
 Difference Between Scrum & Agile:
-
-The difference between agile and Scrum is that agile refers to a set of principles and values shared by several methodologies, processes and practices; Scrum is one of several agile frameworks--and is the most popular.
+he difference between agile and Scrum is that agile refers to a set of principles and values shared by several methodologies, processes and practices; Scrum is one of several agile frameworks--and is the most popular.
 
 Benefits of Using Scrum:
-   
 As Scrum teams are continuously creating only the highest priority chunks of functionality, the business is assured maximum return on investment.
 
 
@@ -21,9 +19,7 @@ Scrum helps businesses:
 
 
 Scrum defines three roles
-
 1.PRODUCT OWNER : 
-    
 The Product Owner defines the what--as in what the product will look like and what features it should contain. 
 The Product Owner is expected to incorporate stakeholder feedback to create the highest value product increments each and every sprint.
 Product Owners maintain the product backlog and ensures that everyone knows the priorities.
@@ -36,7 +32,6 @@ Role of Product Owner :
 * Ensure the development team understands items in the Product Backlog to the level needed.
 
 2.SCRUM MASTER :
-       
 The ScrumMaster helps the Scrum Team perform at their highest level. They also protect the team from both internal and external distractions.
 ScrumMasters hold the Scrum Team accountable to their working agreements, Scrum values, and to the Scrum framework itself.
 
@@ -83,14 +78,12 @@ It consists of
 		      
 5.SPRINT RETROSPECTIVE : Sprint retrospectives focus on the process. During a sprint retrospective the Scrum Team discusses what went right and areas for improvement in the Sprint.They make tangible plans for how to improve their own process, tools and relationships.
 
-
 NOTE : Sprint reviews focus on the product. Sprint Retrospectives focus on the process.  
 
 SCRUM ARTIFACTS:
 Artifacts defiend by scrum are mainly created to maintain transparency of key information so that every body has the same understanding about the work/project.
 
 It consists of
-
 1. PRODUCT BLOCKLOG : The Product Backlog is an ordered list of everything that is known to be needed in a product. It is constantly evolving and is never complete.
 2. SPRINT BACKLOG   : The Sprint Backlog is a list of everything that the team commits to achieve in a given Sprint. Once created, no one can add to the Sprint Backlog except the Development Team. 
 3. INCREMENT : A series of small improvements to an existing product or product line that usually helps maintain or improve its competitive position over time.
