@@ -1,12 +1,11 @@
    
- Linux is an operating system's kernel.Linux is a UNIX clone.It was actually created by Linus Torvalds from Scratch.Linux is free and open-source, that means that you can simply change anything in Linux and redistribute it.
+Linux is an operating system's kernel.Linux is a UNIX clone.It was actually created by Linus Torvalds from Scratch.Linux is free and open-source, that means that you can simply change anything in Linux and redistribute it.
 
 
- Linux "Terminal"
+Linux "Terminal"
 A terminal is a tool that receives commands from the user and gives it to the OS to process, and it shows the output.
 
 Some basic commands that we use in the terminal of Linux.
-
 1.pwd    -> To know which directory you are in
 2.ls     —> To know what files are in the directory
 3.ls -a  -> To see all hidden files in the directory
