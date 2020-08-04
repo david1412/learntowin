@@ -1,0 +1,12 @@
+GIT:
+- Git is a  free open sourse distributed version control system used to store code.
+- The code that is stored on the version control system is called the Source code.
+- It is designed to handle various sized projects with speed and effciency.
+- It is designed for cordinating work among progammers,but it can be used to track changes in any sets of files.
+- Git maintains a history of all the changes performed on software code by various developers.
+- Git provides features like branches and merges for developers to work on various features independently and later merge with the master.
+- git --version = returns the current version of git installed on system
+- git init  = adds a local Git repository to the project
+- git add <file> = stages the specified file
+- git add file1 file2 file3 = adds multiple files
+- git add . = adds all the files and folder to the staging area
