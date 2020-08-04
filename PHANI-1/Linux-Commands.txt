@@ -1,83 +1,45 @@
    
-   Linux is an operating system's kernel.Linux is a UNIX clone.It was actually created by Linus Torvalds from Scratch.Linux is free and open-source, that means that you can simply change anything in Linux and 
-   redistribute it.
+ Linux is an operating system's kernel.Linux is a UNIX clone.It was actually created by Linus Torvalds from Scratch.Linux is free and open-source, that means that you can simply change anything in Linux and redistribute it.
 
 
-      Linux "Terminal"
+ Linux "Terminal"
+A terminal is a tool that receives commands from the user and gives it to the OS to process, and it shows the output.
 
+Some basic commands that we use in the terminal of Linux.
 
-   A terminal is a tool that receives commands from the user and gives it to the OS to process, and it shows the output.
-
-    Some basic commands that we use in the terminal of Linux.
-
- 
-    1.pwd    -> To know which directory you are in
-
-    2.ls     —> To know what files are in the directory
-
-    3.ls -a  -> To see all hidden files in the directory
-    
-    4.ls -al -> To format list with hidden files
-
-    5.cd dir   —> To go to a directory
-
-    6.mkdir dir -> To creat a folder or a directory
-
-    7.rmdir  -> To delete an empty directory
-
-    8.rm file  -> To delete a directory contaning files
-
-    9.rm -r dir  -> To delete just the directory
-
-    10.Touch file —> To create a file
-
-    11.man & --help -> To know about command and how to use it
-
-    12.cp file1 file2 -> To copy files through the command line
-
-    13.cp -r dir1 dir2 -> To copy dir1 to dir 2; create dir2if it not present
-
-    14.mv file1 file2  -> To move files through the command line
-
-    15.locate-> To locate file in system
-
-    16.cat file  ->To dispaly the content of a file
-
-    17.echo  -> To move data,usually text into a file
-
-    18.nano,vi,jed -> Text editors
-
-    19.df    -> To see available disk space
-
-    20.df-m  -> To show in megabytes
-
-    21.du    -> To know disk usage
-
-    22.hostname ->To know your name in host or network
-
-    23.ping  -> To check connection to a server
-
-    24.clear -> To clear the terminal
-    
-    25.exit  -> To exit terminal
-    
-    26.ps    -> To dispaly the cirrent working process
-
-    27.top   -> Display all running process
-
-    28.TAb button -> Auot fill up in terminal after entering thhree characters
-
-    29.ctrl+c -> To stop any comman in terminal
-
-    30.ctrl+z -> To force stop terminal
-
-    31.ctrl+d  -> Logout current session ,simmilar to exit
-
-    32.ctrl+w  -> Erases one word in the current line
-
-    33.ctrl+u  -> Erases the whole line
-    
-    34.ctrl+r  -> Type to bring up a recent command
-
-    35.!!      -> Repeats the last command
+1.pwd    -> To know which directory you are in
+2.ls     —> To know what files are in the directory
+3.ls -a  -> To see all hidden files in the directory
+4.ls -al -> To format list with hidden files
+5.cd dir   —> To go to a directory
+6.mkdir dir -> To creat a folder or a directory
+7.rmdir  -> To delete an empty directory
+8.rm file  -> To delete a directory contaning files
+9.rm -r dir  -> To delete just the directory
+10.Touch file —> To create a file
+11.man & --help -> To know about command and how to use it
+12.cp file1 file2 -> To copy files through the command line
+13.cp -r dir1 dir2 -> To copy dir1 to dir 2; create dir2if it not present
+14.mv file1 file2  -> To move files through the command line
+15.locate-> To locate file in system
+16.cat file  ->To dispaly the content of a file
+17.echo  -> To move data,usually text into a file
+18.nano,vi,jed -> Text editors
+19.df    -> To see available disk space
+20.df-m  -> To show in megabytes
+21.du    -> To know disk usage
+22.hostname ->To know your name in host or network
+23.ping  -> To check connection to a server
+24.clear -> To clear the terminal
+25.exit  -> To exit terminal
+26.ps    -> To dispaly the cirrent working process
+27.top   -> Display all running process
+28.TAb button -> Auot fill up in terminal after entering thhree characters
+29.ctrl+c -> To stop any comman in terminal
+30.ctrl+z -> To force stop terminal
+31.ctrl+d -> Logout current session ,simmilar to exit
+32.ctrl+w -> Erases one word in the current line
+33.ctrl+u -> Erases the whole line
+34.ctrl+r -> Type to bring up a recent command
+35.!!     -> Repeats the last command
 
