@@ -1,0 +1,16 @@
+					The Scrum Guide
+		Ken Schwaber and Jeff Sutherland developed Scrum.
+
+DEFINITION OF SCRUM
+	Scrum is a process framework in which people can address complex adaptive problems. 
+	Scrum is 
+	a). lightweight, 
+	b). simply to understand, 
+	c). difficult to master.
+It is a process in which one can employ various processes and techniques.
+It helps in continuously improving the product, the team, and the working environment.
+Scrum framework consists of scrum teams and their associated roles, events, artifacts and rules.
+
+USES OF SCRUM
+	Scrum has been used to develop software, hardware, embedded software, networks of interacting function, autonomous vehicles, schools, government, marketing, managing the operation of organizations and almost everything we use in our daily lives, as individuals and societies.
+	Scrum proved especially effective in iterative and incremental knowledge transfer.

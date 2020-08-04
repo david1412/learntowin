@@ -1,0 +1,19 @@
+1.ls # lists the storage of the current directory
+
+2.pwd # shows the path for the current working directory
+
+3.cd # changes path to the new directory
+
+4.cd .. # moves one directory back
+
+5.mkdir # creates a new directory
+
+6.rm -r # removes a directory
+
+7.rm -rf # forced removal of a directory
+
+8.rm # removes a file
+
+9.rm-f # forced removal of file
+
+10.cat # displays all the content present in the file.
