@@ -1,0 +1,12 @@
+about git commands
+1)git pull request = a method of submitting contributions to a repository
+2)fork = copy of a repository owned by a different user
+3)Head = represents your current working directory
+4)clone= local version of a repository, including all commits and branches
+5)git branch -d branch name = deletes the specific branch
+6)git fetch = downloads all history from the remote tracking branches
+7)git reset = undoes all commits after [commit], preserving changes locally
+8)git add = snapshots the file in preparation for versioning
+9)git mv [existing -path] [new-path] = change an existing file path and stage the move
+10)git rm [file] = delete the file from project and stage the removal for commit
+

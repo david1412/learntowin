@@ -1,0 +1,11 @@
+linux commands 
+1)pwd = It prints the path of the working directory, starting from the roots
+2)echo =Used to display line of text/string that are passed as an argument
+3)cd  = change directoty
+4)touch= Used to create, change and modify timestamps of a file
+5)mv=Used to move one or more files or directories from one place to another in file system like UNIX
+6)escp+:1,$d=deleting all the lines from the file
+7)dd= deleting line to line
+8)dD= deleting the paragraph
+
+
