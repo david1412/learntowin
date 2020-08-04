@@ -1,0 +1,13 @@
+SCRUM INTRODUCTION:
+- Scrum is most widely used framework for managing software projects.
+- It is a framework rather than a methodology for developing complex products.
+- The actvities are planned and executed in time-boxed intervals known as sprints.
+- The framework works on the basis of iterative feedback loop and incremental development in time-boxed sprints for managing software/prodcut development.
+- The framework defines the roles,events,artifacts and all the underlying rules that connect them together
+- Communication is given more important in scrum as information has to be passed effectively and with transparently
+- Collaboration is key for the success of scrum as employees from varied background work together to build a efficient product.
+- Functioning software is one key aspect which means that at any block of time, the software is in functioning state which is not in the case of waterfall methodology.
+- Teams are self organized  and cross-functional and hence there is no project manager to lead and direct the teams
+- Adapatation to new business developments is easier as the framework is independent of the software/product.
+
+ 
