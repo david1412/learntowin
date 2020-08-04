@@ -28,4 +28,4 @@
 	Git is a distributed version control system.
 
 10. What are the interpreters for git in Mac machine?
-	terminal acts as the interpreter.
+	Terminal acts as the interpreter.

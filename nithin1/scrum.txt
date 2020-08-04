@@ -14,3 +14,4 @@ Scrum framework consists of scrum teams and their associated roles, events, arti
 USES OF SCRUM
 	Scrum has been used to develop software, hardware, embedded software, networks of interacting function, autonomous vehicles, schools, government, marketing, managing the operation of organizations and almost everything we use in our daily lives, as individuals and societies.
 	Scrum proved especially effective in iterative and incremental knowledge transfer.
+Scrum is a small team of people which is highly flexible and adaptive.
