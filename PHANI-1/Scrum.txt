@@ -14,11 +14,10 @@ As Scrum teams are continuously creating only the highest priority chunks of fun
 
 
 Scrum helps businesses:
-
-             * Innovate faster
-             * Move from idea to delivery more quickly
-             * Drive higher customer satisfaction
-             * Increase employee morale
+* Innovate faster
+* Move from idea to delivery more quickly
+* Drive higher customer satisfaction
+* Increase employee morale
 
 
 Scrum defines three roles
