@@ -1,12 +1,20 @@
-about git commands
-1)git pull request = a method of submitting contributions to a repository
-2)fork = copy of a repository owned by a different user
-3)Head = represents your current working directory
-4)clone= local version of a repository, including all commits and branches
-5)git branch -d branch name = deletes the specific branch
-6)git fetch = downloads all history from the remote tracking branches
-7)git reset = undoes all commits after [commit], preserving changes locally
-8)git add = snapshots the file in preparation for versioning
-9)git mv [existing -path] [new-path] = change an existing file path and stage the move
-10)git rm [file] = delete the file from project and stage the removal for commit
+Git is, first and foremost, a version control system (VCS). There are many version control systems out there: CVS, SVN, Mercurial, Fossil, and, of course, Git.
+
+Git serves as the foundation for many services, like GitHub and GitLab, but you can use Git without using any other service. This means that you can use Git privately or publicly.
+
+If you have ever collaborated on anything digital with anyone, then you know how it goes. It starts out simple: you have your version, and you send it to your partner. They make some changes, so now there are two versions, and send the suggestions back to you. You integrate their changes into your version, and now there is one version again.
+
+Then it gets worse: while you change your version further, your partner makes more changes to their version. Now you have three versions; the merged copy that you both worked on, the version you changed, and the version your partner has changed.
+
+About git commands
+1)Git pull request = A method of submitting contributions to a repository
+2)Fork = Copy of a repository owned by a different user
+3)Head = Represents your current working directory
+4)Clone= Local version of a repository, including all commits and branches
+5)Git branch -d branch name = Deletes the specific branch
+6)Git fetch = Downloads all history from the remote tracking branches
+7)Git reset = Undoes all commits after [commit], preserving changes locally
+8)Git add = Snapshots the file in preparation for versioning
+9)Git mv [existing -path] [new-path] = Change an existing file path and stage the move
+10)Git rm [file] = Delete the file from project and stage the removal for commit
 
