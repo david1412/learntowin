@@ -1,4 +1,14 @@
-what is sprint
+                   What is scrum
+Scrum is a framework within which people can address complex adaptive problems,
+while productively and creatively delivering products of the highest possible value.
+Scrum itself is a simple framework for effective team collaboration on complex products. 
+Scrum co-creators Ken Schwaber and Jeff Sutherland have written The Scrum Guide to explain Scrum clearly and succinctly. 
+This Guide contains the definition of Scrum. This definition consists of Scrum’s roles, events, artifacts, and the rules that bind them together. 
+   Scrum is:
+   1)Lightweight
+   2)Simple to understand
+   3)Difficult to master
+                    what is sprint
 Sprint is one timeboxed iteration of a continuous development cycle. Within a Sprint, planned amount of work has to be completed by the team and made ready for review. The term is mainly used in Scrum Agile methodology but somewhat basic idea of Kanban continuous delivery is also essence of Sprint Scrum.
 Sprint literal meaning is a short race at full speed. Accordingly, teams usually define a short duration of a Sprint up to 2-4 weeks. Team collaboratively sets their target with Product Owner as “Sprint Goal” and plan their work in “Sprint backlog”. As soon race starts after planning session, team work together to complete planned work effectively and make it ready for review by the end of that period.
 High level User Stories readiness in Product backlog is the prerequisite of starting a Sprint Cycle. Sprint Analytics help Scrum Master and Product Owner to know the progress of Sprint in a glance. It is the place to define Sprint Goal and Definition of Done for each Sprint.
