@@ -1,16 +1,14 @@
-Linux commands : 
- esc :gg = move cursor to the start of the document
- shift +i = insert before cursor
- esc, :wq or :q = save file and close
- esc :1,$d = deletes all lines
- dd or :d = Delete current line
- vi <file-name> = creates and open a file
- pwd = present working directory
- cd <file name> = create directory
- cd .. = go up one folder level
- esc = terminate insert command
- 
- 
+ Linux commands : 
+ - esc :gg = move cursor to the start of the fie
+ - shift +i = insert before cursor ( to insert text in windows gitbash)
+ - esc, :wq or :q = saves and closes file 
+ - esc :1,$d = deletes all lines in the current open file
+ - dd or :d = Delete current line where the cursor is positioned
+ - vi <file-name> = creates and open a file for editing
+ - pwd = present working directory (to check the present directory we are working)
+ - cd <file name> = create directory to create files
+ - cd .. = go up one folder level from the current directory
+ - esc = terminate insert command and exit file editor
 
 
  
