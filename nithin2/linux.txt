@@ -1,0 +1,63 @@
+1.Where I can use Linux?
+  We can use Linux as Server OS or as standalone OS on our PC.
+
+2.What is a server OS?
+  A server operating system, also called a server OS specifically designed to run on servers, which are specialized computers that operate within a clint/server architecture to serve the requests of client computers on the network.
+
+3.We can use Linux for?
+  we can use Linux operating system for 
+  a)Personal Work
+  b)Web Server
+  c)Software Development Workstation
+  d)Workgroup Server
+  e)In Data Center for various server activities such as FTP, Telnet, SSH, Web, Mail, Proxy, Proxy Cache Appliance etc..
+
+4.What Kernel Is?
+  Kernel is the heart of Linux OS.
+  It manages resources of Linux OS. Resources means facilities available in Linux. For eg: Facility to store data, print data on printer, memory, file management etc .
+  Kernel acts as an intermediary between the computer hardware and various programs/application/shell.
+
+5.What is Linux shell?
+  Shell is a user program for user interaction. Shell is a command line interpreter that executes commands read from the standard input device(keyboard) or from a file.
+  Sjell is not part of system kernel, but uses the system kernel to execute programs, create files etc.
+
+6.Types of Shell available?
+  a)BASH(Bourne-Again SHell)
+  b)CSH(C SHell)
+  c)KSH(Korn SHell)
+  d)TCSH
+
+7.How to find our current shell type?
+  Open the terminal and type following command $echo$SHELL
+
+8.how to find all available shells in our system?
+  Open terminal and type following command $cat/etc/shells
+
+9.How to use Shell?
+  To use shell simply open terminal and type commands.
+
+10.What is Shell Script?
+  Shell Script is series of commands written in plain text file. Shell script is just like batch file in MS-DOS but have more power than the MS-DOS batch file.
+
+Some common linux commands:
+  
+11.vi # It is a editor used to create a file and edit.
+
+12.touch # Creates a new file # we can also create multiple files using it.
+ 
+13.man # Shows the help manual.
+ 
+14.ls -a # Lists all files including hidden files.
+
+15.ls -l # Long listing.
+
+16.nano # It is an editor.
+
+17.cd ~ # Tilt command, this brings us to the original path.
+
+18.cd /bin # After reverting to original path this /bin path will give you list of all the linux commands.
+
+19.history # Gives recently used commands.
+
+20.history n(number from where you want to see the commanda list) 
+	eg: history 0 shows all the commanda used from the begining.
