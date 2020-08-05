@@ -1,0 +1,25 @@
+               Scrum artifacts
+Let’s start with identifying the three artifacts in scrum. Artifacts are something that we make,
+like a tool to solve a problem. In Scrum, these three artifacts are a product backlog, a sprint backlog,
+and an increment with your definition of “done”. They are the three constants in a scrum team that we 
+continue to revisit and invest in overtime.
+ 
+ 1) Product Backlog 
+                 is the master list of work that needs to get done maintained by the product owner or product manager.
+ This is a dynamic list of features, requirements, enhancements, and fixes that acts as the input for the sprint backlog.
+ It is, essentially, the team’s “To Do” list. The product backlog is constantly revisited, re-prioritized and maintained
+ by the Product Owner because, as we learn more or as the market changes, items may no longer be relevant or problems may get solved in other ways.
+
+2)Sprint Backlog 
+                 is the list of items, user stories, or bug fixes, selected by the development team for implementation
+in the current sprint cycle. Before each sprint, in the sprint planning meeting 
+the team chooses which items it will work on for the sprint from the product backlog. 
+A sprint backlog may be flexible and can evolve during a sprint. However, 
+the fundamental sprint goal – what the team wants to achieve from the current sprint 
+
+3)incremennts
+                an Increment is the sum of all the Product Backlog items completed during a Sprint and the value of 
+the increments of all previous Sprints. At the end of a Sprint, the new Increment must be “Done,”
+which means it must be in useable condition and meet the Scrum Team’s definition of “Done.
+The entire point of Scrum is to deliver a "Done" increment
+

@@ -1,0 +1,20 @@
+                 What is linux
+		              =)Linux is the best-known and most-used open source operating system.
+			      As an operating system, Linux is software that sits underneath all of the other software on a computer,
+			      receiving requests from those programs and relaying these requests to the computer’s hardware.
+                 What is Linux Kernel?
+                               =)The architecture of an operating system, the kernel is the most important or heart 
+			       of the operating system as it manages the communication between a machine’s hardware and its software.
+			       The visibility of kernel’s operation is invisible and so it is not accessible to the end-user.
+			       These userspace tools only have GUI file systems, web browsers, and the Bash shell.
+	Few Basic Commands of Linux
+#Remove (delete) file                                        =      rm file
+# Remove the directory and its contents recursively          = rm -r directory
+# Force removal of file without prompting for confirmation   =  rm -f file
+# Forcefully remove directory recursively                    =  rm -rf directory
+# Copy file1 to file2                                        =  cp file1 file2
+#Gives help information on a command                          =  man
+#Gives a list of all past commands typed in the current terminal session=history
+#Clears the terminal                                          =  clear
+#Creates a new directory in the present working directory or a at the specified path  =  mkdir directoryname
+#Deletes a directory                                         =  rmdir
