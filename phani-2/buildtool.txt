@@ -1,4 +1,3 @@
-
 Buildtools:
 Build tools are programs that automate the creation of executable applications from source code(eg. .apk for android app ,py for python) 
 Building includes compiling,linking and packaging the code into a usable or executable form.
