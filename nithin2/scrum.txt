@@ -1,0 +1,23 @@
+SCRUM THEORY
+ Scrum is founded based on observation or experience rather than theory or pure logic. Scrum gives insights to optimize predictability and control risk.
+Three pillars of this process are 
+ a.Transperancy
+ b.Inspection
+ c.Adaptation
+Scrum events
+  .Sprint Planning
+  .Daily Scrum
+  .Sprint Review
+  .Sprint Retrospective
+
+SCRUM VALUES
+  Commitment, courage, focus, openness and respect. Successful use of scrum depends on people becoming more proficient in living these five values.
+
+THE PRODUCT OWNER
+  Responsible for maximizing the value of the product. He is the sole person responsible for product backlog.
+
+THE SCRUM MASTER
+  He acts as the bridge between the product owner and scrum team. He resolves the issues arised between product owner and scrum team.
+ 
+
+
