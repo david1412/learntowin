@@ -1,0 +1,28 @@
+Git Commands are usually classified in two levels
+1.High-level (Porcelain)
+2.Low-level (Plumbing)
+
+some High-level/Porcelain commands are as follows
+1.git bisect
+>>Use binary search to find the commit that introduced a bug
+2.git bundle
+>>Move objects and refs by archive
+3.git clean 
+>>Remove untracked files from the working tree
+4.git gc
+>>Cleanup unnecessary files and optimize the local repository
+5.git-range-diff
+>>Compare two commit ranges(i.e two versions of a branch)
+6.git rebase
+>>Reapply commits on the top of another base tip
+7.git restore 
+>>Restore working tree files
+8.git revert
+>>Revert some existing commands
+9.git stash 
+>>Stash the changes in a dirty working directory away
+10.git-filter-branch
+>>Rewrite branches
+
+*Low-level(plumbing) commands will be provided in next branch.
+ 
