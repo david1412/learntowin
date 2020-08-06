@@ -1,0 +1,30 @@
+File Commands:
+1. more file 
+>>Output the contents of the file
+2. head file
+>>Output the last 10 lines of the file
+3. ln -s file link
+>>Creat symbolic link to file
+
+Searching Commands:
+1. grep pattern file
+>>Search for pattern in file
+2.locate file
+>>Find all instance of file
+3. pgrep pattern
+>> Searches for all the named processes,that matches with the pattern and,by default,retuns their ID
+
+Network Commands
+1. wget file 
+>>Download file
+2. wget -c file
+>>Continue a stopped download
+3. dig -x host
+>> Reverse lookup host
+
+System info Commands
+1. whoami 
+>>Who you are logged in as
+2.w
+>> Display who is on line
+

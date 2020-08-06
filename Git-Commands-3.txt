@@ -1,0 +1,30 @@
+Low-Level(Plumbing) commands:
+The low-level/plumbing commands are further divided into two
+1. Commands that manipulate objects in the repository,index and working tree.
+2. Commands that interrogate and compare objects,moves object and references betwwen repositories.
+
+Manipulative Commands:
+1. git -apply
+>>To apply a patch to files and/or to the index.
+2. git checkout-index:
+>>To copy files from the index to the working tree.
+3. git hash-object
+>>To compute  object ID and  optionally creates a blob from a file
+4. git multi-pack-index
+>>To Write and verify multi-pack-indexes
+5. git mktag
+>>To Creat a tag object
+
+Interrogation Commands:
+1. git cherry
+>>Finds commits yet to be applied to upstream
+2. git diff-files
+>>To compare files in the working tree or index
+3. git for each-ref
+>>To check output information on each ref
+4. git var 
+>>To show a Git logical varaible
+
+Syncing repositorries
+git daemon
+>>A really simple server for Git reposirories 
