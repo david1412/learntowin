@@ -27,4 +27,6 @@ Interrogation Commands:
 
 Syncing repositorries
 git daemon
->>A really simple server for Git reposirories 
+>>A really simple server for Git reposirories
+
+will add next commands in comming classes.
