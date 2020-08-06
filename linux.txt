@@ -1,0 +1,13 @@
+Linux Commands:
+
+ - mv <folder1/file> <folder2> = Move file from folder1 to folder2 
+ - rm -r <folder name> = Removes folder recursively
+ - man <command> = Command manual 
+ - :w = Save the file but keep it open
+ - :q! = Quit the file without save
+ - zz = Save file then quit
+ - G = Move to the end of the file
+ - $ = Moves the cursor to the end of the line
+ - 0 = Move the cursor to the beginning of the line
+ - x = Delete a character
+ - R = Overwrite text
