@@ -1,0 +1,24 @@
+            What is a Build Tool?
+                               =) Build tools are commonly known as programs that automate the process of building an 
+ executable application from source code. This building process includes activities like compiling,
+ linking, and packaging the code into an executable form. Build automation involves scripting or automating 
+ a wide range of tasks that software developers perform in their daily activities. 
+
+             The activities includ
+	   #Downloading the dependencies.
+           #Compiling source code to the form of binary code.
+           #Packaging that binary code.
+           #Running the tests.
+           #Deploying them to the production systems
+           #Creating the documents or release the notes
+
+	   List of Build tools
+	   #Apache Ant
+	   #Apache Buildr
+	   #Apache Marvel
+	   #Sbt
+	   #Tup
+	   #Gradle
+	   #Visual Build
+
+
