@@ -10,3 +10,5 @@ GIT:
 - git add <file> = stages the specified file
 - git add file1 file2 file3 = adds multiple files
 - git add . = adds all the files and folder to the staging area
+
+
