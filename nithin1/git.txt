@@ -1,0 +1,31 @@
+
+
+1.What is version control?
+  version control systems are a category of software tools that help a software team manage changes to source code over time. It keeps track of every modification to the code in a special kind of database.
+
+2.What is GIT?
+  It is a source code software.
+
+3.What is there before devops?
+  Before devops there is Build and release engineers.
+
+4.What are the source code tools?
+  Git, GitHub, Gitlab, SVN, Perforce, TVS etc.
+
+5.What is popular in the market?
+  Git, Gitlab, Bitbucket.
+
+6.What is a centralised version control system?
+  Centralised version control system is based on the idea that there is a single central copy in the server.
+
+7.What is distributed version control system?
+  In this every developer can clone a copy of their work in their local work space.
+
+8.Which is better centralised or distributed?
+  We cannot judge on this, but distributed is more popular.
+
+9.Git is a?
+  Git is a distributed version control system.
+
+10.What are the interpreters for git in Mac machine?
+   Terminal acts as the interpreter.
