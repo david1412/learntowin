@@ -8,8 +8,4 @@ SCRUM INTRODUCTION:
 - Collaboration is key for the success of scrum as employees from varied background work together to build a efficient product.
 - Functioning software is one key aspect which means that at any block of time, the software is in functioning state which is not in the case of waterfall methodology.
 - Teams are self organized  and cross-functional and hence there is no project manager to lead and direct the teams
-- Adapatation to new business developments is easier as the framework is independent of the software/product.
-
-
-
-.
+- Adapatation to new business developments is easier as the framework is independent of the software/product
