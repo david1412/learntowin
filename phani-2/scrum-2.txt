@@ -19,3 +19,5 @@ The Sprint Backlog is a forecast by the Development Team about what functionalit
 3.Increment:
 The Increment is the sum of all the Product Backlog items completed during a Sprint and all previous Sprints.
 At the end of a Sprint, the new Increment must be Done.
+
+add
