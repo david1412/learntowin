@@ -1,0 +1,10 @@
+1.What is a build tool?
+  Build tools are programs that automate the creation of executable applications from source code. Building incorporates compiling, linking and packaging the code into a usable or executable form.
+
+2.How many build tools are there?
+  These tools are called as build automation tools. There are many tools in the market based on their respective compatibility with the programming language. some of them are make-based, make-incompatible..
+.Apache Ant, popular for java platform development and uses an XML file format
+.Apache Buildr, opensource build system, Rake based, Ruby language.
+.Apache Maven, a java platform tool for dependency management and automated software build
+.A-A-P, a Python based build tool
+.Gradle, an open-source build and automation system with an Apache Groovy-based domain specific language (DSL), combining features of Apache Ant and Apache Maven with additional features like a reliable incremental build.

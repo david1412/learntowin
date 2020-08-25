@@ -1,0 +1,27 @@
+The most frequently used Linux commands that are used while working in DevOps.
+
+1. sudo=This command executes only that command with root/ superuser privileges.
+syntax:sudo <command>
+ex:sudo useradd <username> # Adding a new user
+2. cat=This command can read, modify or concatenate text files.It also displays file contents.
+syntax:cat <flag> filename
+ex:cat -n #This adds line numbers to all lines
+3. sort=This command sorts the results of a search either alphabetically or numerically.It also sorts files, file contents, and directories.
+syntax:sort <flag> filename
+ex:sort -n #Returns the results as per numerical order
+4. diff=This command is used to find the difference between two files
+syntax:diff file1 file2
+5. history= This command is used to view the previously executed commands
+syntax:history
+6. curl=Curl is a command-line tool to transfer data to or from a server
+syntax:curl options URL
+ex:curl https://www.python.org
+7. kill=Is a built-in command which is used to terminate processes manually
+syntax:kill <flag>
+ex:kill -l
+8. apt -get=Helps in handling packages in Linux
+syntx:apt-get [options]
+ex:apt-get update
+9. id=Is used to find out user and group names and numeric ID’s
+syntax:id OPTION USER
+ex:id -G master

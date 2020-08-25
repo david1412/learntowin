@@ -1,13 +1,11 @@
-Linux Commands:
-
- - mv <folder1/file> <folder2> = Move file from folder1 to folder2 
- - rm -r <folder name> = Removes folder recursively
- - man <command> = Command manual 
- - :w = Save the file but keep it open
- - :q! = Quit the file without save
- - zz = Save file then quit
- - G = Move to the end of the file
- - $ = Moves the cursor to the end of the line
- - 0 = Move the cursor to the beginning of the line
- - x = Delete a character
- - R = Overwrite text
+Linux commands : 
+ esc :gg = move cursor to the start of the fie
+ shift +i = insert before cursor ( to insert text in windows gitbash)
+ esc, :wq or :x = saves and closes file 
+ esc :1,$d = deletes all lines in the current open file
+ dd or :d = Delete current line where the cursor is positioned
+ vi <file-name> = creates and open a file for editing
+ pwd = present working directory (to check the present directory we are working)
+ cd <file name> = change directory
+ cd .. = go up one folder level from the current directory
+ esc = terminate insert command and exit file editor

@@ -1,0 +1,21 @@
+About Scrum Artifacts:
+ 
+Definition:Artifacts defiend by scrum are mainly created to maintain transparency of key information so that every body has the same understanding about the work/project.
+
+In simple words:
+Scrum artifacts are elements that help to share important project information with everyone involved.
+
+Scru defines three important artifacts:
+
+1.Product Backlog:
+A product backlog is a list of all the things that are required in the product and it is a dynamic and best understood requirements for any changes to be made to the product.
+Product backlog owned by the Product Owner (PO) which consists of a lists all features, functions, requirements, enhancements, and fixes that constitute the changes to be made
+to the product in the future releases.
+
+2.Sprint Backlog:
+The Sprint Backlog is the set of Product Backlog items selected for the Sprint plus a plan for delivering the product Increment and realizing the Sprint Goal.
+The Sprint Backlog is a forecast by the Development Team about what functionality will be in the next Increment and the work needed to deliver that functionality.
+
+3.Increment:
+The Increment is the sum of all the Product Backlog items completed during a Sprint and all previous Sprints.
+At the end of a Sprint, the new Increment must be Done.
