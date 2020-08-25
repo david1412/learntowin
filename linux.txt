@@ -9,3 +9,5 @@ Linux commands :
  cd <file name> = change directory
  cd .. = go up one folder level from the current directory
  esc = terminate insert command and exit file editor
+ 
+ 
