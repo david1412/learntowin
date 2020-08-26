@@ -10,3 +10,4 @@ SCRUM INTRODUCTION (Contd.):
 - The stakeholders and scrum team agree to openly work on the challenges while executing the projects.
 - Scrum team members are idependent people who respect each other's capabilities and deliver products iteratively and incrementally.
 - Each of the incremental delivery is ensured that a potentially useful version of the product is always available.
+---
