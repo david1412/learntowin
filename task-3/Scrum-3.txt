@@ -1,0 +1,21 @@
+Daily Scrum:
+Daily scrum is a 15 minutes time-framed event for Development Team to know the activities and create a plan for the next 24 hours.It is held every day of the Sprint.Usually it held at the same place and time each day.
+
+View:The change of place in and arround office work can motivate the team. lyk messaging or video conference platform,task board, parking lot etc.,
+
+The Development Team uses the daily scrum to inspect how progree is trending towards completing the workin the Sprint Backlog to achive the Sprint Goal.
+
+Scrum Master Role:
+The Scrum Master ensure the daily meeting and is limited to 15-minutes and can ivite PO and Customer to meet but ensure that they do not distrub  the meet.
+
+Note:Development Team is responsible for conducting the Daily Scrum.
+**Daily Scrum is not a Status Meeting.
+
+Status Meeting:A status meeting is a communication channel for sharing news and information in an organization.It can be held once in monthly or weekly.
+
+Outcome oF Daily Scrum:
+1. An updated Sprint Backlog.
+2. An updated Srint plan to achive the Sprint Goal.
+3. Clean paln for the day ahead.
+4. impediments should be indentified and team members can discuss after scrum to find solution.
+
